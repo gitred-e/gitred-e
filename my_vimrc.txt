@@ -1,0 +1,24 @@
+if has("gui_win32")
+        call plug#begin()
+        Plug 'ervandew/supertab'
+        Plug 'rakr/vim-one'
+        call plug#end()
+	set nu rnu
+	set cursorline
+        colorscheme one
+        set background=light
+	set guifont=Consolas:h12:cANSI:qDRAFT
+	set nobackup
+	set noswapfile
+	set noundofile
+	set hlsearch
+	set incsearch
+	set showmatch
+	set expandtab
+	set wildmenu
+	set guioptions-=T
+	set guioptions-=r
+	set guioptions-=l
+	set guioptions-=R
+	set guioptions-=L
+endif
