@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gitred-e.
 - 👀 I’m interested in VLSI front-end design verification.
-- 🌱 I’m currently learning UVM.
 - 📫 How to reach me "vishnupavan777@gmail.com"
 
 <!---
